@@ -1,0 +1,15 @@
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\bin\Debug\net7.0\task34.exe
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\bin\Debug\net7.0\task34.deps.json
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\bin\Debug\net7.0\task34.runtimeconfig.json
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\bin\Debug\net7.0\task34.dll
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\bin\Debug\net7.0\task34.pdb
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.csproj.AssemblyReference.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.dll
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\refint\task34.dll
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.pdb
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\C#\task34\obj\Debug\net7.0\ref\task34.dll
